@@ -2318,7 +2318,7 @@ body {
   margin-top: 0px;
 }
 
-.swiper-slide:nth-child(3) {
+ {
   margin-left: -13px;
   margin-top: 4px;
 }
@@ -5978,7 +5978,7 @@ body {
     padding-left: 32px;
   }
   .swiper-slide:nth-child(3) {
-    margin-left: 87px;
+    margin-left: 130px;
     margin-top: 4px;
   }
   .fund .blocks__token {
