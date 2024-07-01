@@ -5871,7 +5871,7 @@ body {
 }
 @media screen and (max-width: 415px) {
   .fund .questions__block:last-child {
-    padding-top: 20px;
+    padding-top: 8px;
   }
   .token .form__wrapper {
     padding-left: 0px;
