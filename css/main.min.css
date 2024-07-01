@@ -6069,4 +6069,12 @@ body {
     padding-top: 20px;
   }
 }
+
+@media screen and (max-width:415px){
+.fund  .swiper-slide:nth-child(3) {
+        margin-left: 87px;
+        margin-top: 4px;
+    }
+
+}
 /*# sourceMappingURL=main.min.css.map */
